@@ -13,7 +13,7 @@ ModelImporter:
       type: UnityEngine:Texture2D
       assembly: UnityEngine.CoreModule
       name: pan2
-    second: {fileID: 2800000, guid: 342817faa5bddd74cba96568fc0dfb2f, type: 3}
+    second: {fileID: 2800000, guid: 35c57cf54d83ef349b62725f96c38e02, type: 3}
   materials:
     materialImportMode: 2
     materialName: 0
